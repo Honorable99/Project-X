@@ -21,3 +21,8 @@ Exploring IPL 2025 Season through Data
 
 [View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_ipl2025-dataanalytics-sportstech-activity-7337588702036041729-046u?utm_medium=ios_app&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU&utm_source=social_share_send&utm_campaign=copy_link)
 
+### 5. Tesla Sales & Customer Dashboard (2012 - 2024)
+Excited to share key insights from my recent data analysis project on Tesla’s customer and sales data (2012–2024)
+
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_dataanalytics-teslainsights-powerbi-activity-7338538732398010369-M_JZ?utm_medium=ios_app&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU&utm_source=social_share_send&utm_campaign=copy_link)
+
