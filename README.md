@@ -26,3 +26,9 @@ Excited to share key insights from my recent data analysis project on Tesla’s 
 
 [View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_dataanalytics-teslainsights-powerbi-activity-7338538732398010369-M_JZ?utm_medium=ios_app&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU&utm_source=social_share_send&utm_campaign=copy_link)
 
+### 6.  What Happens When Real Estate Meets Data?
+Not long ago, I was looking at a jumble of real estate data — hundreds of rows showing property types, towns, listing years, and sales amounts. 
+Wonder what i found out?
+
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_not-long-ago-i-was-looking-at-a-jumble-of-activity-7338960667330154496-72gG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+
