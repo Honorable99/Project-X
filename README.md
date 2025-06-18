@@ -432,3 +432,102 @@ This project wasn’t just about visuals — it was about clarity.
 It proved that data storytelling can make complex real estate trends easy to digest and act upon.
 
 From a raw, unstructured dataset came an interactive, insight-rich dashboard — ready to support smarter decisions across the real estate value chain.
+
+
+### 6. Smartphones in India Analysis
+
+
+🚨 India’s Smartphone Market… Visualized 📊📱
+
+
+
+Ever wondered what 7 million Naira worth of smartphone data looks like?
+
+
+I built this interactive dashboard using Power BI to analyze over 350 smartphone models from 21 top brands in India—and the insights are 🔥.
+
+
+
+Here’s what I uncovered 👇
+
+
+
+🔌 Fast Charging is King
+
+
+Xiaomi’s Redmi Note 12 Pro+ completely leads the fast-charging game.
+
+
+In a country where speed matters, users aren’t willing to wait.
+
+
+Other top contenders? Infinix, Poco, and Vivo—but Xiaomi dominates.
+
+
+
+🔋 Battery Life is a Deal-Breaker
+
+
+Every model in the top battery category packs 5,000 mAh—and surprise, they’re all Xiaomi too.
+
+
+Battery capacity isn’t just a feature anymore—it’s an expectation.
+
+
+
+💾 Storage is the Silent Hero
+
+
+Top models with the largest internal memory? Again—Xiaomi, across the board.
+
+
+For users juggling apps, photos, and videos, internal storage is non-negotiable.
+
+
+
+
+💰 Pricing Tells a Story
+
+
+From the ultra-premium Huawei Mate 50 RS Porsche to value giants like Samsung Galaxy S10 Plus, pricing reveals the diversity of the Indian market.
+
+Samsung stands out for offering models at almost every price point—from luxury to budget.
+
+
+
+⭐ User Ratings Don’t Lie
+
+
+Who’s winning hearts?
+
+1.	Samsung
+
+2.	Realme
+
+3.	Vivo
+
+Xiaomi may win on specs, but Samsung wins on trust and user satisfaction.
+
+
+
+🎯 Final Insight?
+
+
+👉 The Indian smartphone market is powered by performance, price consciousness, and brand loyalty.
+
+
+👉 Xiaomi owns the spec sheet, but Samsung owns the people.
+
+
+
+📌 This dashboard was more than just visuals—it’s a data story about how users choose their next phone.
+
+Built with Power BI | Driven by Insight 🔍
+
+
+
+
+
+
+
+
